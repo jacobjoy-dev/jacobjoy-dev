@@ -60,13 +60,7 @@
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jacobjoy-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jacobjoy-dev&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
 
 ## 🚀 Featured Projects
 
