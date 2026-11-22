@@ -15,7 +15,7 @@
 - 🔭 I'm a **tech enthusiast** exploring new tools, ideas and innovations
 - 🌱 I'm always **learning and experimenting** with the latest in technology
 - 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python, JavaScript, React, Node.js, Django, Flask**
+- 💬 Ask me about **Python, JavaScript, React, Node.js, Django, Flask, RAG & Cybersecurity**
 - 📍 Based in **Kerala, India** 🇮🇳
 - ⚡ Fun fact: **I turn coffee into code ☕**
 
@@ -25,21 +25,33 @@
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 
-**Frameworks & Libraries**
+**Web Technologies**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,opencv" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flask,django" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=langchain,gemini,opencv" />
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" /><img src="https://img.shields.io/badge/Semantic_Search-6C63FF?style=for-the-badge" />
+
+**Cybersecurity Tools**
+
+<img src="https://skillicons.dev/icons?i=wireshark,burpsuite" />
+<img src="https://img.shields.io/badge/Nmap-1E5AA8?style=for-the-badge" /><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
