@@ -60,7 +60,11 @@
 
 ## 🏆 Achievements
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jacobjoy-dev&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
