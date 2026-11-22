@@ -78,13 +78,20 @@ I'm a developer who enjoys turning ideas into practical software across web appl
 
 ### Achievements
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="GitHub Pull Shark Achievement" />
-<br/>
-<sub><b>Pull Shark</b> · Earned on GitHub</sub>
-
-</div>
-
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="GitHub Pull Shark Achievement" />
+      <br />
+      <sub><b>Pull Shark</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="GitHub Quickdraw Achievement" />
+      <br />
+      <sub><b>Quickdraw</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Connect With Me
 
